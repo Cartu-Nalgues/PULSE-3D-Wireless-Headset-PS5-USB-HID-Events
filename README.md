@@ -1,8 +1,6 @@
 DP-WH-PS5 USB Events 
 =============
 
-
-Fuente: https://www.iteramos.com/pregunta/30538/como-anadir-color-al-archivo-readmemd-de-github
 Basically DP-WH-PS5 communicates the buttons pressed by the user via the USB adapter
 
 Now, would it be possible to read this data from the USB adapter in Windows?
