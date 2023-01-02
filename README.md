@@ -1,5 +1,8 @@
 DP-WH-PS5 USB Events 
-==============
+=============
+
+
+Fuente: https://www.iteramos.com/pregunta/30538/como-anadir-color-al-archivo-readmemd-de-github
 Basically DP-WH-PS5 communicates the buttons pressed by the user via the USB adapter
 
 Now, would it be possible to read this data from the USB adapter in Windows?
@@ -22,4 +25,4 @@ Intercepted packages
 Searching a bit I found the pywinusb.hid project and its raw_data.py example is perfect to read HID events with python
 https://github.com/rene-aguirre/pywinusb
 
-![Screenshot_20221222-191841_WhatsApp](https://user-images.githubusercontent.com/70771067/210198015-92393df4-f2cd-4876-ae1a-201b318619cd.jpg)
+![CHEEMS BONK](https://media1.tenor.com/images/4dee992174206c66cb208bee31174b8d/tenor.gif?itemid=18805247)
