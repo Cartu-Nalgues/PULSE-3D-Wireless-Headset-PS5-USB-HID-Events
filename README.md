@@ -19,4 +19,7 @@ Intercepted packages
 * Increase sound volume Game
 * Low game sound volume (Increase chat sound volume)
 
+Searching a bit I found the pywinusb.hid project and its raw_data.py example is perfect to read HID events with python
+https://github.com/rene-aguirre/pywinusb
+
 ![Screenshot_20221222-191841_WhatsApp](https://user-images.githubusercontent.com/70771067/210198015-92393df4-f2cd-4876-ae1a-201b318619cd.jpg)
